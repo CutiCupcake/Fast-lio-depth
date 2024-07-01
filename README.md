@@ -1,5 +1,22 @@
 ## Related Works and Extended Application
 
+
+**TOF Camera: PMD Flexx2**
+Modifications
+
+    TOF Point Cloud Processing Functions: Implemented functions for efficient handling of TOF point cloud data.
+    TOF Point Cloud Preprocessing: Added preprocessing steps to enhance the quality and usability of TOF point cloud data.
+    VIO Parameter Adjustments: Adjusted VIO (Visual-Inertial Odometry) parameters for improved performance and accuracy.
+
+Applicable Scenarios
+
+    Confined Spaces: Optimized for use in narrow environments ranging from 1 to 3 meters.
+
+
+
+
+
+
 **SLAM:**
 
 1. [ikd-Tree](https://github.com/hku-mars/ikd-Tree): A state-of-art dynamic KD-Tree for 3D kNN search.

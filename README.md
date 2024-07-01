@@ -1,11 +1,12 @@
 ## Related Works and Extended Application
 
 
-**TOF Camera: PMD Flexx2**
+TOF Camera: PMD Flexx2
 Modifications
-    1. TOF Point Cloud Processing Functions: Implemented functions for efficient handling of TOF point cloud data.
-    2. TOF Point Cloud Preprocessing: Added preprocessing steps to enhance the quality and usability of TOF point cloud data.
-    3. VIO Parameter Adjustments: Adjusted VIO (Visual-Inertial Odometry) parameters for improved performance and accuracy.
+
+    1.TOF Point Cloud Processing Functions: Implemented functions for efficient handling of TOF point cloud data.
+    2.TOF Point Cloud Preprocessing: Added preprocessing steps to enhance the quality and usability of TOF point cloud data.
+    3.VIO Parameter Adjustments: Adjusted VIO (Visual-Inertial Odometry) parameters for improved performance and accuracy.
 
 Applicable Scenarios
 

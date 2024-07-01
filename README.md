@@ -1,20 +1,36 @@
 ## Related Works and Extended Application
 
 
-TOF Camera: PMD Flexx2
+**TOF Camera: PMD Flexx2**
+
 Modifications
 
-    1.TOF Point Cloud Processing Functions: Implemented functions for efficient handling of TOF point cloud data.
-    2.TOF Point Cloud Preprocessing: Added preprocessing steps to enhance the quality and usability of TOF point cloud data.
-    3.VIO Parameter Adjustments: Adjusted VIO (Visual-Inertial Odometry) parameters for improved performance and accuracy.
+1.TOF Point Cloud Processing Functions: Implemented functions for efficient handling of TOF point cloud data.
+
+2.TOF Point Cloud Preprocessing: Added preprocessing steps to enhance the quality and usability of TOF point cloud data.
+
+3.VIO Parameter Adjustments: Adjusted VIO (Visual-Inertial Odometry) parameters for improved performance and accuracy.
+
 
 Applicable Scenarios
 
-    Confined Spaces: Optimized for use in narrow environments ranging from 1 to 3 meters.
+
+Confined Spaces: Optimized for use in narrow environments ranging from 1 to 3 meters.
 
 
+**Experiments**
+Condition:
+Low altitude、Low speed、Left and right rotation not exceeding 180 degrees、Return to the original point after movement
 
+![图片](https://github.com/CutiCupcake/Fast-lio-depth/assets/113587573/7527c7f4-da5b-4341-8fd7-324748b37737)
 
+![图片](https://github.com/CutiCupcake/Fast-lio-depth/assets/113587573/11863f72-12c0-4560-969f-196546085b78)
+
+![图片](https://github.com/CutiCupcake/Fast-lio-depth/assets/113587573/fce4800d-0a3f-4e23-bbb6-0b1ab51996a6)
+
+The loop closure error is as follows
+
+![图片](https://github.com/CutiCupcake/Fast-lio-depth/assets/113587573/4c04e207-e503-46e2-a7a9-5506769d18cd)
 
 
 **SLAM:**
